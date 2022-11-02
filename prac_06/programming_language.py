@@ -1,7 +1,7 @@
 """
 Prac 06 - Programming Language Class
-Estimate: 45
-Actual:
+Estimate: 45 minutes
+Actual: 55 minutes
 """
 
 
