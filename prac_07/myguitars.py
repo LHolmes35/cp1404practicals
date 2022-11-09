@@ -26,6 +26,7 @@ def main():
     with open(FILENAME, "w") as out_file:
         for guitar in guitars:
             print(f"{guitar.name},{guitar.year}, {guitar.cost}", file=out_file)
+    out_file.close()
     print("Good choices, the collection looks good")
 
 
